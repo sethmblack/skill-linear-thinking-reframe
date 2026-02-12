@@ -1,11 +1,10 @@
 ---
 name: linear-thinking-reframe
-description: Transform content that uses linear thinking patterns into exponential
-  framing, applying Ray Kurzweil's perspective on technology forecasting.
+description: Transform content that uses linear thinking patterns into exponential framing, applying Ray Kurzweil's perspective on technology forecasting.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - linear-thinking-reframe
 - transformation
