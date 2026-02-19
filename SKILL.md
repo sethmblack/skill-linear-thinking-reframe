@@ -4,7 +4,8 @@ description: Transform content that uses linear thinking patterns into exponenti
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4394
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - linear-thinking-reframe
 - transformation
